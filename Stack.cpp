@@ -70,7 +70,11 @@ int main()// Fungsi utama
 {
 	int pil, flag=1, value;
 
-
+cout<<"||=====================================================||"<<endl;
+cout<<"||         STACK WITH LINKED LIST CONCEPT              ||"<<endl;
+cout<<"||               DEVELOPED BY BulinMcD                 ||"<<endl;
+cout<<"||=====================================================||"<<endl<<endl;
+cout<<"Menu Program :";
  while( flag == 1){
 cout<<"\n================\n";
 cout<<"1.Push \n";
